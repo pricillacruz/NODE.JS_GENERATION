@@ -1,0 +1,22 @@
+{
+  "name": "ex_04",
+  "version": "1.0.0",
+  "description": "Olá mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pricillabomanni/Node.js.git"
+  },
+  "author": "Pricilla Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pricillabomanni/Node.js/issues"
+  },
+  "homepage": "https://github.com/pricillabomanni/Node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
